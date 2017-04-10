@@ -1,8 +1,8 @@
 ---
 # Program/Department Title
-title: Center for the Humanities
+title: Center-for-the-Study-of-Force-and-Diplomacy
 # Subdirectory (with / at only at beginning)
-baseurl: /center-for-the-humanities
+baseurl: /center-for-the-study-of-force-and-diplomacy
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -15,11 +15,11 @@ keywords: highered, college, university, philadelphia, Temple
 # Address
 address:
   building: Gladfelter Hall
-  room: 10th Floor
-  street: 1114 West Berks St
+  room: 913 
+  street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email:
-  phone:
+  email: rimmerma@temple.edu
+  phone: 215-204-7466
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -62,9 +62,9 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/center-for-the-humanities/csv
-news-feed: https://liberalarts.temple.edu/news/center-for-the-humanities/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/center-for-the-humanities/csv
+events-feed: https://liberalarts.temple.edu/events/center-for-the-study-of-force-and-diplomacy/csv
+news-feed: https://liberalarts.temple.edu/news/center-for-the-study-of-force-and-diplomacy/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/center-for-the-study-of-force-and-diplomacy/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
