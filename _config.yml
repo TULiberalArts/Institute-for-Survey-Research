@@ -8,7 +8,7 @@ baseurl: /center-for-the-study-of-force-and-diplomacy
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Center for the Study of Force and Diplomacy (CENFAD), founded in 1993 by Drs. Richard Immerman, Russell Weigley, and David Rosenberg, fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context. CENFAD is housed within Temple University’s History Department.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,7 +18,7 @@ address:
   room: 913 
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: rimmerma@temple.edu
+  email: <a href="mailto:rimmerma@temple.edu">rimmerma@temple.edu</a>
   phone: 215-204-7466
 
 # Social Media
