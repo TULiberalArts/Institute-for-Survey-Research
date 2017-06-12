@@ -3,6 +3,9 @@
 title: Center for the Study of Force and Diplomacy
 # Subdirectory (with / at only at beginning)
 baseurl: /center-for-the-study-of-force-and-diplomacy
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+
 
 # Program Information
 # Short tagline for tweets (<100 characters)
