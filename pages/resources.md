@@ -18,8 +18,7 @@ published: true
 
 ## In the News
 
-Temple receives EPA grant to clean up industrial contamination
-Green vision for concrete schoolyard
+Temple receives EPA grant to clean up industrial contamination Green vision for concrete schoolyard
 EPA grant helps Temple take aim at potentially hazardous waste sites in Kensington
 Community Invited To Take Part In Center For Sustainable Communities-Led Workshops
 CSC holds public meeting on flooding and stormwater management studies
