@@ -7,9 +7,9 @@ layout: home
 feature: true
 feature-title: null
 feature-body: >-
-The Center for Sustainable Communities at Temple University Ambler was established in July 2000
-to develop and promote new approaches to protect and preserve quality of life through sustainable development.
-feature-image: null
+  The Center for Sustainable Communities at Temple University Ambler was established in July 2000
+  to develop and promote new approaches to protect and preserve quality of life through sustainable development.
+  feature-image: null
 published: true
 ---
 
