@@ -21,10 +21,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Center-for-the-Study-of-Force-and-Diplomacy
-[travis-img]: https://travis-ci.org/TULiberalArts/Center-for-the-Study-of-Force-and-Diplomacy.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Center-for-Sustainable-Communities
+[travis-img]: https://travis-ci.org/TULiberalArts/Center-for-Sustainable-Communities.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Center-for-the-Study-of-Force-and-Diplomacy/issues
+[issue]: https://github.com/TULiberalArts/Center-for-Sustainable-Communities/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Center-for-the-Study-of-Force-and-Diplomacy
+[prose]: https://prose.io/#TULiberalArts/Center-for-Sustainable-Communities
 [md]: http://whatismarkdown.com/
