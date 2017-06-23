@@ -1,8 +1,8 @@
-# Center for the Study of Force and Diplomacy
+# Center for Sustainable Communities
 
 [![Build Status][travis-img]][travis]
 
-Center for the Study of Force and Diplomacy is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Center for Sustainable Communities is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 ## Content Structure
 
