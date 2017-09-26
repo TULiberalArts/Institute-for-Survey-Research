@@ -1,25 +1,18 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: 3 or 4 unique for this page
+description: >- 
+  The Center for Sustainable Communities (CSC) at the Tyler School of Art develops and promotes new approaches to sustainable             development. 
+keywords: 'Center for Sustainable Communities, Temple University, Tyler School of Art, environmental studies, urban studies'
 permalink: /
 layout: home
 feature: true
-feature-title: Insert feature title here
+feature-title: An Interdisciplinary Approach to Sustainability.
 feature-body: >-
-  The Center for Sustainable Communities at Temple University Ambler was established in July 2000
-  to develop and promote new approaches to protect and preserve quality of life through sustainable development.
+  The Center utilizes the expertise of Temple University faculty from geography and urban studies, environmental studies, economics,       landscape architecture, horticulture, geology, city and regional planning, engineering and chemistry.
   feature-image: hero_sustainability.jpg
 published: true
 ---
-
-The Center for Sustainable Communities (CSC) develops and promotes new approaches to protect and preserve quality of life through sustainable development. We act as a resource for government agencies, community organizations, and developers, providing objective information and services to improve decision-making relative to land use and water resources planning and development.
-
-A working resource for government agencies, community organizations, and developers, the CSC provides objective information and services to improve decision-making relative to land use and water resources planning and development. The Center conducts interdisciplinary research and offers educational and community outreach programs.
-
-The CSC was designed to build on Temple University Ambler’s historical focus and strengths in horticulture, landscape architecture, and environmental studies, while drawing upon the expertise of all Temple University faculty. Associated faculty come from various disciplines, including landscape architecture, horticulture, geology, geography, urban and suburban studies, land use policy and planning, environmental economics, environmental justice, and chemistry.
-
-Temple University Ambler Campus has an optimal geographic location and history of environmental protection and land-use planning uniquely position it to serve as a regional and national resource to foster interdisciplinary research and education, facilitate collaborative planning, encourage community partnerships, and disseminate information on the development and management of sustainable communities.
+The Center for Sustainable Communities (CSC) develops and promotes new approaches to protect and preserve quality of life through sustainable development. We conduct social and environmental research on sustainability - how can we make decisions that maintain or enhance economic and community well-being while protecting the environment on which we depend? The CSC draws on Temple University Ambler's historical focus and strength in horticulture, landscape architecture and environmental studies. Associated Temple University faculty come from disciplines that include geology, geography, urban studies, land use policy and planning, environmental justice and chemistry. The center is a working resource for government agencies, community organizations and developers. We provide objective information and services to improve decision-making relative to land use and water resources planning and development. 
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
