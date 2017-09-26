@@ -14,6 +14,27 @@ published: true
 ---
 The Center for Sustainable Communities (CSC) develops and promotes new approaches to protect and preserve quality of life through sustainable development. We conduct social and environmental research on sustainability - how can we make decisions that maintain or enhance economic and community well-being while protecting the environment on which we depend? The CSC draws on Temple University Ambler's historical focus and strength in horticulture, landscape architecture and environmental studies. Associated Temple University faculty come from disciplines that include geology, geography, urban studies, land use policy and planning, environmental justice and chemistry. The center is a working resource for government agencies, community organizations and developers. We provide objective information and services to improve decision-making relative to land use and water resources planning and development. 
 
+Melissa R. Gilbert, PhD
+Professor and Chair, Department of Geography and Urban Studies
+Director, Center for Sustainable Communities
+Temple University
+mgilbert@temple.edu
+http://www.cla.temple.edu/gus/faculty/melissa-r-gilbert/
+
+Susan Spinella Sacks, M.S. 
+Assistant Director, Center for Sustainable Communities
+Temple University
+202 West Hall, Ambler Campus
+(267) 468 8312
+susan.spinella@temple.edu
+
+Victor Gutierrez-Velez
+Faculty Fellow
+Center for Sustainable Communities
+Temple University
+victor.hugo@temple.edu
+http://www.cla.temple.edu/gus/vhgv/
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Temple-Villanova Sustainable Stormwater Initiative" 
