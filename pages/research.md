@@ -2,44 +2,19 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: ''
-description: >- 
 published: true
 ---
-
-## What is Sustainability
-
-By Dr. Jeffery Featherstone
-
-Just what is “sustainability?”
-
-While scholars have debated the nature of sustainability and have outlined numerous, sometimes ponderous definitions of it, we can simply accept its basic tenets.
-
-In short, sustainability means protecting and managing our natural resources so they are available for future generations. It also means that in promoting sustainability we must give careful and thoughtful consideration to the environmental, economic, and social aspects of alternative courses of action so advances in one area do not come at the expense of the others. 
-For example, when addressing issues of urban sprawl, it seems more prudent to encourage the redevelopment of our older boroughs and suburbs rather than building new homes in the hinterland. This simultaneously fosters positive economic and social development as well as environmental protection. In contrast, building new homes in the hinterland only complicates sprawl and leads to greater economic and social disparities between older cities and towns and our developments in the fringe areas of the Philadelphia region as well as more traffic, smog, and ecological damage.
-
-As noted in a report spearheaded by the Center for Sustainable Communities, “sustainability” means making decisions, both as individuals and as a society, that seek to maintain or enhance economic opportunity and community well-being while protecting and restoring the natural environment upon which people and economies depend. The report titled “Is Pennsylvania Moving Towards a Sustainable Future” outlined a number of trends or sustainability indicators on how well the Commonwealth of Pennsylvania is either enhancing or degrading our quality of life.
-
-School of Environmental Design students and faculty are involved in numerous important research activities, which in turn assist area communities, including a major study of the Pennypack Creek Watershed; a study of flooding in the Fort Washington Office Park; and emergency management analysis for area municipalities. The multidisciplinary research in floodplain mapping is serving as a national model on how to update floodplain maps using state-of-the-art hydrologic modeling, aerial photography, and geographic information system mapping.
-
-The Ambler campus is an arboretum, and purchases wind power to show its commitment to using renewable resources.
-The Center and the departments that comprise the School of Environmental Design in the College of Liberal Arts - Community and Regional Planning and Landscape Architecture and Horticulture - seek to promote sustainability by practicing what we preach and serving as a resource to municipal officials, community organizations, and citizens by providing objective information and services to improve decision-making relative to land and water management.
-
----
-
-## Research Projects
-
 The Center conducts interdisciplinary research and offers educational and community outreach programs.
 
-### All Projects
-
-- [Brownsfiels Revisioning Project](https://tyler.temple.edu/brownfields-revisioning-project)
-Location: North Kensignton, Philadelphia
+## [Brownsfields Revisioning Project](https://tyler.temple.edu/brownfields-revisioning-project)
+Location: North Kensington, Philadelphia
 Status: Ongoing
- 
-- [Green Neighborhood Toolkit](https://tyler.temple.edu/cdev-studio-sustainability-toolkit)
+A brownfield is a property, the expansion, redevelopment, or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant or contaminant. Locational factors including high vacancy rates, weak market forces, and former industrial uses highlight the classic brownfields challenges of financial barriers, liability issues, and cleanup considerations. These difficulties coalesce to significantly impact economic, social, public health, and environmental justice concerns within the project area, and significantly hamper development. Our plan will summarize the cleanup and reuse implementation strategies for the catalyst sites using information obtained through research into community engagement, prioritization, existing conditions, partnerships, and potential resources. 
+
+## [Green Neighborhood Toolkit](https://tyler.temple.edu/cdev-studio-sustainability-toolkit)
 Location: Philadelphia
 Status: Completed July 2015
+
  
 - [EPA Grant For Community-Driven Design](https://tyler.temple.edu/epa-grant-community-driven-design)
 Location: Delaware Direct & TTF Watersheds
