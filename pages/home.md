@@ -27,7 +27,7 @@ Associated Temple University faculty come from disciplines that include geology,
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Community-Driven Geodesign Process in Philadelphia" 
-      content="Learn about how the CSC is helping local neighborhoods that deal with poverty, vacant housing, impaired water quality, ecological degradation, flooding, and poor stormwater management implement green stormwater infrastructure." 
+      content="Learn about how the CSC is helping local neighborhoods dealing with issues that include poverty and ecological degradation implement green stormwater infrastructure." 
       image="" 
       button-link="https://phillygreendesign.wordpress.com/" 
       button-text="Learn More" %}
@@ -35,7 +35,7 @@ Associated Temple University faculty come from disciplines that include geology,
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Melissa R. Gilbert Named Director of Center for Sustainable Communities" 
-        content="An expert in urban geography, feminism and critical race studies, Melissa Gilbert was selected as the new director of the CSC in July of this year. " 
+        content="An expert in urban geography, feminism and critical race studies, Melissa Gilbert was selected as the new director of the CSC in July of this year." 
         image="" 
         button-link="https://liberalarts.temple.edu/about-us/newsroom/college-liberal-arts-dean-names-melissa-r-gilbert-new-director-center-sustainable" 
         button-text="Learn More" %}
