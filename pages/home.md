@@ -14,49 +14,28 @@ published: true
 ---
 The Center for Sustainable Communities (CSC) develops and promotes new approaches to protect and preserve quality of life through sustainable development. We conduct social and environmental research on sustainability - how can we make decisions that maintain or enhance economic and community well-being while protecting the environment on which we depend? The CSC draws on Temple University Ambler's historical focus and strength in horticulture, landscape architecture and environmental studies. Associated Temple University faculty come from disciplines that include geology, geography, urban studies, land use policy and planning, environmental justice and chemistry. The center is a working resource for government agencies, community organizations and developers. We provide objective information and services to improve decision-making relative to land use and water resources planning and development. 
 
-Melissa R. Gilbert, PhD
-Professor and Chair, Department of Geography and Urban Studies
-Director, Center for Sustainable Communities
-Temple University
-mgilbert@temple.edu
-http://www.cla.temple.edu/gus/faculty/melissa-r-gilbert/
-
-Susan Spinella Sacks, M.S. 
-Assistant Director, Center for Sustainable Communities
-Temple University
-202 West Hall, Ambler Campus
-(267) 468 8312
-susan.spinella@temple.edu
-
-Victor Gutierrez-Velez
-Faculty Fellow
-Center for Sustainable Communities
-Temple University
-victor.hugo@temple.edu
-http://www.cla.temple.edu/gus/vhgv/
-
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Temple-Villanova Sustainable Stormwater Initiative" 
-    content="Temple University’s Center for Sustainable Communities and Villanova Urban Stormwater Partnership is long-term partnership that combines the strengths of both research centers creating an interdisciplinary organization to demonstrate stormwater Best Management Practices (BMPs), to conduct research, and to conduct a broad outreach program focusing on regional stormwater management." 
+    title="EPA grant helps Temple take aim at hazardous waste sites in Kensington" 
+    content="More Temple University is taking the lead on a federally backed effort to clean up and redevelop former industrial spots in Philadelphia's Kensington neighborhood." 
     image="" 
-    button-link="http://sites.temple.edu/tvssi/" 
+    button-link="http://www.newsworks.org/index.php/local/healthscience/80052-epa-grant-helps-temple-take-aim-at-potentially-hazardous-waste-sites-in-kensington-" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Community-Driven Geodesign Process in Philadelphia" 
-      content="The Center proposed a framework for developing a Green Stormwater Infrastructure plan through a participatory Geodesign         process and then applied the framework in Delaware Direct and Tookany/Tacony-Frankford watersheds." 
+      content="Learn about how the CSC is helping local neighborhoods that deal with poverty, vacant housing, impaired water quality, ecological degradation, flooding, and poor stormwater management implement green stormwater infrastructure." 
       image="" 
       button-link="https://phillygreendesign.wordpress.com/" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Melissa R. Gilbert Named Director of Center for Sustainable Communities" 
+        content="An expert in urban geography, feminism and critical race studies, Melissa Gilbert was selected as the new director of the CSC in July of this year. " 
         image="" 
-        button-link=" " 
+        button-link="https://liberalarts.temple.edu/about-us/newsroom/college-liberal-arts-dean-names-melissa-r-gilbert-new-director-center-sustainable" 
         button-text="Learn More" %}
       </div>
 </div>
