@@ -2,15 +2,11 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
-description: >-
 published: true
 ---
 
-## Presentations & Publications
----
-
-## In the News
+## Center for Sustainable Communities Research Projects
+The Center for Sustainable Communities conducts interdisciplinary research and offers educational and community outreach programs to address environmental and quality of life issues.
 
 - [Temple receives EPA grant to clean up industrial contamination](http://news.temple.edu/news/2015-04-22/center-sustainable-communities-receives-epa-grant)
 - [EPA grant helps Temple take aim at potentially hazardous waste sites in Kensington](http://www.newsworks.org/index.php/local/healthscience/80052-epa-grant-helps-temple-take-aim-at-potentially-hazardous-waste-sites-in-kensington-)
