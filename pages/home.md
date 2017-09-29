@@ -23,7 +23,7 @@ The Center for Sustainable Communities (CSC) develops and promotes new approache
 
 Associated Temple University faculty come from disciplines that include geology, geography, urban studies, land use policy and planning, environmental justice and chemistry. The center is a working resource for government agencies, community organizations and developers. We provide objective information and services to improve decision-making relative to land use and water resources planning and development. 
 
-### If you want to get involved with the center, feel free to [email us](mailto:susan.sacks@temple.edu).
+## <center>If you want to get involved with the center [email us](mailto:susan.sacks@temple.edu).</center> 
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
