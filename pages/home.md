@@ -30,21 +30,21 @@ Melissa R. Gilbert, PhD
 Professor and Chair, Department of Geography and Urban Studies  
 Director, Center for Sustainable Communities  
 Temple University  
-mgilbert@temple.edu  
-http://www.cla.temple.edu/gus/faculty/melissa-r-gilbert/  
+[mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
+[Faculty Profile](http://www.cla.temple.edu/gus/faculty/melissa-r-gilbert/)  
 
 Susan Spinella Sacks, M.S.  
 Assistant Director, Center for Sustainable Communities  
 Temple University  
 202 West Hall, Ambler Campus  
 (267) 468 8312  
-susan.spinella@temple.edu  
+[susan.spinella@temple.edu](mailto:susan.spinella@temple.edu)  
 
 Victor Gutierrez-Velez  
 Faculty Fellow  
 Center for Sustainable Communities  
 Temple University  
-victor.hugo@temple.edu  
-http://www.cla.temple.edu/gus/vhgv/  
+[victor.hugo@temple.edu](mailto:victor.hugo@temple.edu)  
+[Faculty Profile](http://www.cla.temple.edu/gus/vhgv/)   
 
 
