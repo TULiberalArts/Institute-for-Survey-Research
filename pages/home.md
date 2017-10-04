@@ -37,7 +37,7 @@ Temple University
 (267) 468 8312  
 [susan.spinella@temple.edu](mailto:susan.spinella@temple.edu)  
 
-Victor Hugo Gutiérrez-Vélez, PhD 
+Victor Hugo Gutiérrez-Vélez, PhD   
 Faculty Fellow  
 Center for Sustainable Communities  
 Temple University  
