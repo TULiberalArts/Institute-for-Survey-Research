@@ -11,15 +11,12 @@ keywords: >-
 feature: true
 feature-title: An Interdisciplinary Approach to Sustainability.
 feature-body: >-
-  The Center utilizes the expertise of Temple University faculty from geography
-  and urban studies, environmental studies, economics,       landscape
-  architecture, horticulture, geology, city and regional planning, engineering
-  and chemistry.
+  The Center utilizes the expertise of Temple University faculty to conduct solutions-oriented research to meet humanity’s needs while     protecting the environment..
 feature-image: hero_sustainability.bg.png
 published: true
 ---
 ## Sustainability Solutions in a Changing World
-The Center for Sustainable Communities at Temple University conducts integrated social and environmental research on natural, technological, and socio-economic systems to address the challenges of sustainability—how can we meet the needs of people locally and across around the globe through equitable, innovative, and practical solutions that protect the environment which sustains life on the planet?development. 
+The Center for Sustainable Communities at Temple University conducts integrated social and environmental research on natural, technological, and socio-economic systems to address the challenges of sustainability—how can we meet the needs of people locally and across around the globe through equitable, innovative, and practical solutions that protect the environment which sustains life on the planet.
 
 ## History
 The Center for Sustainable Communities (CSC) at Temple University Ambler was established in July 2000 to develop and promote new approaches to protect and preserve quality of life through sustainable development. 
@@ -40,7 +37,7 @@ Temple University
 (267) 468 8312  
 [susan.spinella@temple.edu](mailto:susan.spinella@temple.edu)  
 
-Victor Gutierrez-Velez  
+Victor Hugo Gutiérrez-Vélez, PhD 
 Faculty Fellow  
 Center for Sustainable Communities  
 Temple University  
