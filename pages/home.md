@@ -19,32 +19,31 @@ feature-image: hero_sustainability.bg.png
 published: true
 ---
 ## Sustainability Solutions in a Changing World
-The Center for Sustainable Communities (CSC) develops and promotes new approaches to protect and preserve quality of life through sustainable development. We conduct social and environmental research on sustainability - how can we make decisions that maintain or enhance economic and community well-being while protecting the environment on which we depend? The CSC draws on Temple University Ambler's historical focus and strength in horticulture, landscape architecture and environmental studies. 
+The Center for Sustainable Communities at Temple University conducts integrated social and environmental research on natural, technological, and socio-economic systems to address the challenges of sustainability—how can we meet the needs of people locally and across around the globe through equitable, innovative, and practical solutions that protect the environment which sustains life on the planet?development. 
 
-Associated Temple University faculty come from disciplines that include geology, geography, urban studies, land use policy and planning, environmental justice and chemistry. The center is a working resource for government agencies, community organizations and developers. We provide objective information and services to improve decision-making relative to land use and water resources planning and development. 
+## History
+The Center for Sustainable Communities (CSC) at Temple University Ambler was established in July 2000 to develop and promote new approaches to protect and preserve quality of life through sustainable development. 
+The Center, housed in the College of Liberal Arts, draws on resources at both TU Ambler and Main Campuses to conduct interdisciplinary research and offer educational and community outreach programs. A working resource for government agencies, community organizations, and industry, the CSC provides objective information and services to improve decision making relative to sustainable development. The Center draws on expertise from across the social and environmental sciences and diverse methodological approaches geospatial analysis and techniques, community-based research and citizen science.
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="EPA grant helps Temple take aim at hazardous waste sites in Kensington" 
-    content="Temple University takes the lead on a federally backed effort to clean up and redevelop former industrial spots in Philadelphia's Kensington neighborhood." 
-    image="" 
-    button-link="http://www.newsworks.org/index.php/local/healthscience/80052-epa-grant-helps-temple-take-aim-at-potentially-hazardous-waste-sites-in-kensington-" 
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Community-Driven Geodesign Process in Philadelphia" 
-      content="Learn about how the CSC is helping local neighborhoods dealing with poverty and ecological degradation implement green stormwater infrastructure." 
-      image="" 
-      button-link="https://phillygreendesign.wordpress.com/" 
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Melissa R. Gilbert Named Director of Center for Sustainable Communities" 
-        content="An expert in urban geography, feminism and critical race studies, Melissa Gilbert was selected as the new director of the CSC in July of this year." 
-        image="" 
-        button-link="https://liberalarts.temple.edu/about-us/newsroom/college-liberal-arts-dean-names-melissa-r-gilbert-new-director-center-sustainable" 
-        button-text="Learn More" %}
-      </div>
-</div>
+Melissa R. Gilbert, PhD
+Professor and Chair, Department of Geography and Urban Studies
+Director, Center for Sustainable Communities
+Temple University
+mgilbert@temple.edu
+http://www.cla.temple.edu/gus/faculty/melissa-r-gilbert/
+
+Susan Spinella Sacks, M.S. 
+Assistant Director, Center for Sustainable Communities
+Temple University
+202 West Hall, Ambler Campus
+(267) 468 8312
+susan.spinella@temple.edu
+
+Victor Gutierrez-Velez
+Faculty Fellow
+Center for Sustainable Communities
+Temple University
+victor.hugo@temple.edu
+http://www.cla.temple.edu/gus/vhgv/
+
+
