@@ -56,7 +56,10 @@ university:
   url: https://temple.edu/
 college:
   name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/
+  url: https://liberalarts.temple.edu/ 
+program_news: https://liberalarts.temple.edu/news/center-for-sustainable-communities
+program_events: https://events.temple.edu/events/center-for-sustainable-communities 
+
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
