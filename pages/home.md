@@ -43,4 +43,5 @@ Temple University
 [victor.hugo@temple.edu](mailto:victor.hugo@temple.edu)  
 [Faculty Profile](http://www.cla.temple.edu/gus/vhgv/)   
 
+___
 
