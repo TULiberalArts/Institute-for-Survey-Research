@@ -21,6 +21,8 @@ The Center for Sustainable Communities at Temple University conducts integrated 
 ## History
 The Center for Sustainable Communities (CSC) at Temple University Ambler was established in July 2000 to develop and promote new approaches to protect and preserve quality of life through sustainable development. The Center, housed in the College of Liberal Arts, draws on resources at both TU Ambler and Main Campuses to conduct interdisciplinary research and offer educational and community outreach programs. A working resource for government agencies, community organizations, and industry, the CSC provides objective information and services to improve decision-making relative to sustainable development. The Center draws on expertise from across the social and environmental sciences and diverse methodological approaches that include geospatial analysis and techniques, community-based research and citizen science.
 
+___
+
 ## Contact Information
 Melissa R. Gilbert, PhD  
 Professor and Chair, Department of Geography and Urban Studies  
