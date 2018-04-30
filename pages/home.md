@@ -44,10 +44,10 @@ We collaborate with faculty and other researchers around the country and the wor
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="NEED CONTENT" 
-    content="" 
+    title="Be Heard Philly" 
+    content="Share your voice about the issues you are most interested in such as current events, health care, art/culture initiatives and more. Earn gift cards and prizes when you take our surveys!" 
     image="" 
-    button-link="" 
+    button-link="http://www.cla.temple.edu/isr/BeHeardPhilly/index.html" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
