@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Services
+permalink: /services/
 layout: page
 description: >-
 keywords: ''
