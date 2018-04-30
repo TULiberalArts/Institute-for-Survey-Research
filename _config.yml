@@ -58,8 +58,8 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/ 
   
-program_news: https://liberalarts.temple.edu/news/insitute-for-survey-research
-program_events: https://events.temple.edu/department/insitute-for-survey-research
+program_news: https://liberalarts.temple.edu/news/institute-for-survey-research
+program_events: https://events.temple.edu/department/institute-for-survey-research
 
 
 # Google Tag Manager OR Google Analytics
@@ -69,11 +69,11 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/insitute-for-survey-research/csv
-news-feed: https://liberalarts.temple.edu/news/insitute-for-survey-research/csv
-articles-feed: https://liberalarts.temple.edu/articles/insitute-for-survey-research/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/insitute-for-survey-research/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/insitute-for-survey-research/csv
+events-feed: https://liberalarts.temple.edu/events/institute-for-survey-research/csv
+news-feed: https://liberalarts.temple.edu/news/institute-for-survey-research/csv
+articles-feed: https://liberalarts.temple.edu/articles/institute-for-survey-research/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/institute-for-survey-research/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/institute-for-survey-research/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
