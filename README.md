@@ -1,8 +1,8 @@
-# Center for Sustainable Communities
+# Institute for Survey Research
 
 [![Build Status][travis-img]][travis]
 
-Center for Sustainable Communities is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Institute for Survey Research is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 ## Content Structure
 
@@ -21,10 +21,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Center-for-Sustainable-Communities
-[travis-img]: https://travis-ci.org/TULiberalArts/Center-for-Sustainable-Communities.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Institute-for-Survey-Research
+[travis-img]: https://travis-ci.org/TULiberalArts/Institute-for-Survey-Research.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Center-for-Sustainable-Communities/issues
+[issue]: https://github.com/TULiberalArts/Institute-for-Survey-Research/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Center-for-Sustainable-Communities
+[prose]: https://prose.io/#TULiberalArts/Institute-for-Survey-Research
 [md]: http://whatismarkdown.com/
