@@ -3,6 +3,6 @@ title: Resources
 permalink: /resources/
 layout: page
 description: >-
-Keywords: ''
+keywords: ''
 published: true
 ---
