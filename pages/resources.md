@@ -4,5 +4,5 @@ permalink: /resources/
 layout: page
 description: >-
 keywords: ''
-published: false
+published: true
 ---
