@@ -5,6 +5,13 @@ layout: page
 description: >-
 keywords: ''
 published: true
+sidebar: true
+sidebar-content: |
+ **Main Office:**   
+   Entertainment and Community Education Center (ECEC)- Suite 401   
+   1509 Cecil B. Moore Avenue   
+   [(215) 204-8355](tel:2152048355)       
+   Fax: (215) 204-4416    
 ---
 ## Study Design & Methodology (http://www.cla.temple.edu/isr/services/survey.html HOW ARE WE GOING TO HOUSE THIS CONTENT? CHILD PAGE?)
 - Experimental and Non-Experimental Research Designs
