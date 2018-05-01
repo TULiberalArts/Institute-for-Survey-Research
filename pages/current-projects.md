@@ -13,7 +13,9 @@ sidebar-content: |
    [(215) 204-8355](tel:2152048355)       
    Fax: (215) 204-4416    
 ---
-The Institute for Survey Research (ISR) is currently directing and contributing to several projects across the country. Below is a list of current projects. For more information about these, and other projects, contact at [isr@temple.edu](mailto:isr@temple.edu) or [215-204-8355](tel:2152048355).
+The Institute for Survey Research (ISR) is currently directing and contributing to several projects across the country. Below is a list of current projects. For more information about these, and other projects, contact at [isr@temple.edu](mailto:isr@temple.edu) or [215-204-8355](tel:2152048355). 
+- You can view a full pdf of our [Past Research Projects](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20PROJECTS.pdf)<br>
+- You can view a full pdf of our [Seleted Publications and Citations](https://liberalarts.temple.edu/sites/liberalarts/files/PUBLICATIONS_0.pdf)<br>
 
 ## The Role of Automated SMS Text Messaging in Public Opinion Research
 ![Textizen]({{site.baseurl}}/media/resized Textizen_logo_blue.png){:.img-right}
@@ -62,7 +64,7 @@ This baseline survey was conducted in four neighborhoods in Philadelphia selecte
 ___
 
 ## Completion by Design
-In collaboration with MDRC, ISR collected data from faculty at 5 community colleges to evaluate the Melinda and Bill Gates Foundation Initiative Completion by Design. Web-based data was collected for faculty and staff at 5 geographically diverse community colleges. - _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
+In collaboration with MDRC, ISR collected data from faculty at 5 community colleges to evaluate the Melinda and Bill Gates Foundation Initiative Completion by Design. Web-based data was collected for faculty and staff at 5 geographically diverse community colleges. - - - _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
 
 ___
 
@@ -75,6 +77,3 @@ ___
 ## A Pediatric Quality Measurement Center and Testing Laboratory
 ISR collects data for CHOP’s Clinical Validation of Pediatric Global Health Scale via telephone survey with a multimodal sequential recruit and survey at three points for 1,000 parent child dyads. Data collection consists of a baseline survey, 1 month follow-up and 6-12 week follow-up with client-provided list sample. A countable dyad complete requires both parent and child to complete the interview at each wave. 
 - _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
-
-You can view a full pdf of our [Past Research Projects](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20PROJECTS.pdf)<br>
-You can view a full pdf of our [Seleted Publications and Citations](https://liberalarts.temple.edu/sites/liberalarts/files/PUBLICATIONS_0.pdf)<br>
