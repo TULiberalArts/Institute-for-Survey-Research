@@ -5,6 +5,13 @@ layout: page
 description: >-
 Keywords: ''
 published: true
+sidebar: true
+sidebar-content: |
+ **Main Office:**   
+   Entertainment and Community Education Center (ECEC)- Suite 401   
+   1509 Cecil B. Moore Avenue   
+   [(215) 204-8355](tel:2152048355)       
+   Fax: (215) 204-4416    
 ---
 The Institute for Survey Research (ISR) is currently directing and contributing to several projects across the country. Below is a list of current projects. For more information about these, and other projects, contact at [isr@temple.edu](mailto:isr@temple.edu) or [215-204-8355](tel:2152048355).
 
