@@ -5,6 +5,13 @@ layout: page
 description: >-
 keywords: ''
 published: true
+sidebar: true
+sidebar-content: |
+ **Main Office:**   
+   Entertainment and Community Education Center (ECEC)- Suite 401   
+   1509 Cecil B. Moore Avenue   
+   [(215) 204-8355](tel:2152048355)       
+   Fax: (215) 204-4416    
 ---
 ## Employment Opportunities
 Temple University’s Institute for Survey Research has ongoing employment opportunities for Experienced Field Interviewers. Field Interviewers will make face-to-face visits to randomly selected households and conduct interviews with selected respondents using an electronic laptop. All necessary training will be provided.
