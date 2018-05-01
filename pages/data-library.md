@@ -5,6 +5,13 @@ layout: page
 keywords: ''
 description: >-
 published: true
+sidebar: true
+sidebar-content: |
+ **Main Office:**   
+   Entertainment and Community Education Center (ECEC)- Suite 401   
+   1509 Cecil B. Moore Avenue   
+   [(215) 204-8355](tel:2152048355)       
+   Fax: (215) 204-4416    
 ---
 ## Social Science Data Library
 The Social Science Data Library is Temple University's repository for computerized social science data and a primary center for expertise in the analysis and presentation of such data. Members of Temple Community (full, free service for instructional needs; fees charged for extensive analytical services on time-consuming projects). Non-Temple Personnel (limited set of services, sometimes fee-based).
