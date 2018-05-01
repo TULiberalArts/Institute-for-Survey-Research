@@ -64,7 +64,8 @@ This baseline survey was conducted in four neighborhoods in Philadelphia selecte
 ___
 
 ## Completion by Design
-In collaboration with MDRC, ISR collected data from faculty at 5 community colleges to evaluate the Melinda and Bill Gates Foundation Initiative Completion by Design. Web-based data was collected for faculty and staff at 5 geographically diverse community colleges. - - - _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
+In collaboration with MDRC, ISR collected data from faculty at 5 community colleges to evaluate the Melinda and Bill Gates Foundation Initiative Completion by Design. Web-based data was collected for faculty and staff at 5 geographically diverse community colleges. 
+- _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
 
 ___
 
