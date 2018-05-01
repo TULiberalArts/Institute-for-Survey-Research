@@ -69,4 +69,5 @@ ___
 ISR collects data for CHOP’s Clinical Validation of Pediatric Global Health Scale via telephone survey with a multimodal sequential recruit and survey at three points for 1,000 parent child dyads. Data collection consists of a baseline survey, 1 month follow-up and 6-12 week follow-up with client-provided list sample. A countable dyad complete requires both parent and child to complete the interview at each wave. 
 _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
 
-You can view a full pdf of our [Past Research Preojects](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20PROJECTS.pdf)
+You can view a full pdf of our [Past Research Projects](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20PROJECTS.pdf)
+You can view a full pdf of our [Seleted Publications and Citations](https://liberalarts.temple.edu/sites/liberalarts/files/PUBLICATIONS_0.pdf)
