@@ -52,7 +52,7 @@ ___
 This baseline survey was conducted in four neighborhoods in Philadelphia selected by the Philadelphia Department of Public Health to represent areas with high smoking rates in the city. ISR surveyed 400 Philadelphia residents on the street near entrances to stores that sell tobacco products.The survey confirms the findings of preliminary research indicating that knowledge is weak about smoking’s effects on cancer in 10 different parts of the body, but knowledge about lung cancer is high. 
 _Principal Investigator: Heidi Grunwald, Project Director: Nina Hoe_
 
-__
+___
 
 ## Completion by Design
 In collaboration with MDRC, ISR collected data from faculty at 5 community colleges to evaluate the Melinda and Bill Gates Foundation Initiative Completion by Design. Web-based data was collected for faculty and staff at 5 geographically diverse community colleges. _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
