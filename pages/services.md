@@ -59,3 +59,15 @@ published: true
 ## Education & Outreach
 - Customized Research Methods Training Workshops
 - Guest Lectures
+
+## Affiliations
+- [AAPOR - American Association for Public Opinion Research](http://www.aapor.org/)
+- [AASRO - Association of Academic Survey Research Organizations](http://www.aasro.org/)
+- [ACS - Association for Computer-assisted Surveys](http://cases.berkeley.edu/members.html)
+- [PANJAAPOR- Pennsylvania/New Jersey Chapter of the American Association for Public Opinion Research (AAPOR)](http://panjaapor.org/)
+- [WAPOR - World Association for Public Opinion Research](http://wapor.org/)
+
+## Collaborators
+- [MDRC- Building Knowledge to Improve Social Justice](https://www.mdrc.org/)
+- [Marlketing Systems Group](http://www.m-s-g.com/Web/Index.aspx)
+- [Textizen](https://www.textizen.com/)
