@@ -7,7 +7,7 @@ keywords: ''
 published: true
 sidebar: true
 sidebar-content: |
- **Main Office:**   
+ **Main Office**   
    Entertainment and Community Education Center (ECEC)- Suite 401   
    1509 Cecil B. Moore Avenue   
    [(215) 204-8355](tel:2152048355)       
@@ -22,21 +22,21 @@ sidebar-content: |
    
    ___
    
-  **Manager of Survey Operations:**   
+  **Manager of Survey Operations**   
     Keisha Miles    
     [(215) 204-4936](tel:2152044936)       
     [kmiles@temple.edu](mailto:kmiles@temple.edu)    
     
    ___
    
-  **MIS Development Engineer:**   
+  **MIS Development Engineer**   
     David F. Tucker         
     [(215) 204-5100](tel:2152045100)        
     [dtucker@temple.edu](mailto:dtucker@temple.edu)    
     
     ___
    
-  **Sampling Statistician Collaborator:**   
+  **Sampling Statistician Collaborator**   
     Mansour Fahimi, PhD          
     [(215) 204-5100](tel:2152045100)           
     [dtucker@temple.edu](mailto:dtucker@temple.edu)     
