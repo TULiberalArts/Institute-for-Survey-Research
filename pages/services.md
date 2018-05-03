@@ -41,7 +41,7 @@ sidebar-content: |
     [(215) 204-5100](tel:2152045100)           
     [dtucker@temple.edu](mailto:dtucker@temple.edu)     
 ---
-## [Study Design & Methodology](develop.cla.temple.edu/isr/study-design-and-methodology)
+## [Study Design & Methodology](www.develop.cla.temple.edu/isr/study-design-and-methodology)
 - Experimental and Non-Experimental Research Designs
 - Qualitative, Quantitative, and Mixed-mode Methodologies
 - Program Evaluation
@@ -53,14 +53,14 @@ sidebar-content: |
 - Cognitive Interviews
 - Pilot Testing
  
-## [Sampling Design & Recruitment](develop.cla.temple.edu/isr/sampling-design-and-recruitment)
+## [Sampling Design & Recruitment](www.develop.cla.temple.edu/isr/sampling-design-and-recruitment)
 - Sampling Design Selection: Probability, Address-based, Systematic, Stratified, Quota, Convenience, Snowball, Intercept
 - Estimated Design Effects
 - Panel Recruitment
 - Clinical Trial and General Study Recruitment
 - Weighting
 
-## [Data Collection](develop.cla.temple.edu/isr/data-collection) 
+## [Data Collection](www.develop.cla.temple.edu/isr/data-collection) 
 - Computer-assisted Telephone Interviewing (CATI)
 - Computer-assisted In-person Interviewing (CAPI)
 - Audio Computer-assisted Self Interviewing (ACASI)
