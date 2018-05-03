@@ -60,7 +60,7 @@ sidebar-content: |
 - Clinical Trial and General Study Recruitment
 - Weighting
 
-## [Data Collection](http://www.cla.temple.edu/isr/data-collection)
+## [Data Collection](http://www.cla.temple.edu/isr/data-collection) 
 - Computer-assisted Telephone Interviewing (CATI)
 - Computer-assisted In-person Interviewing (CAPI)
 - Audio Computer-assisted Self Interviewing (ACASI)
