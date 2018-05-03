@@ -1,6 +1,6 @@
 ---
 title: Study Design & Methodology
-permalink: /study-design-and-methodology/
+permalink: /services/study-design-and-methodology/
 layout: page
 description: >-
 keywords: ''
