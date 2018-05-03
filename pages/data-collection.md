@@ -1,6 +1,6 @@
 ---
 title: Data Collection 
-permalink: /data-collection/
+permalink: /services/data-collection/
 layout: page
 description: >-
 keywords: ''
