@@ -41,7 +41,7 @@ sidebar-content: |
     [(215) 204-5100](tel:2152045100)           
     [dtucker@temple.edu](mailto:dtucker@temple.edu)     
 ---
-## [Study Design & Methodology](www.develop.cla.temple.edu/isr/study-design-and-methodology)
+## [Study Design & Methodology](#study-design-and-methodology)
 - Experimental and Non-Experimental Research Designs
 - Qualitative, Quantitative, and Mixed-mode Methodologies
 - Program Evaluation
