@@ -41,7 +41,6 @@ sidebar-content: |
     [(215) 204-5100](tel:2152045100)           
     [dtucker@temple.edu](mailto:dtucker@temple.edu)     
 ---
----
 ## Sampling Design & Analysis
 The foundation of any scientifically conducted survey must be a sound sampling strategy. ISR devotes considerable attention to sampling methods, balancing statistical considerations with practical limitations dictated by field costs.
 
