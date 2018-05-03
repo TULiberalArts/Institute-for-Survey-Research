@@ -13,7 +13,7 @@ sidebar-content: |
    [(215) 204-8355](tel:2152048355)       
    Fax: (215) 204-4416    
 ---
-## Study Design & Methodology (http://www.cla.temple.edu/isr/study-design-and-methodology)
+## [Study Design & Methodology](http://www.cla.temple.edu/isr/study-design-and-methodology)
 - Experimental and Non-Experimental Research Designs
 - Qualitative, Quantitative, and Mixed-mode Methodologies
 - Program Evaluation
@@ -25,14 +25,14 @@ sidebar-content: |
 - Cognitive Interviews
 - Pilot Testing
  
-## Sampling Design & Recruitment (http://www.cla.temple.edu/isr/sampling-design-and-recruitment)
+## [Sampling Design & Recruitment](http://www.cla.temple.edu/isr/sampling-design-and-recruitment)
 - Sampling Design Selection: Probability, Address-based, Systematic, Stratified, Quota, Convenience, Snowball, Intercept
 - Estimated Design Effects
 - Panel Recruitment
 - Clinical Trial and General Study Recruitment
 - Weighting
 
-## Data Collection (http://www.cla.temple.edu/isr/data-collection)
+## [Data Collection](http://www.cla.temple.edu/isr/data-collection)
 - Computer-assisted Telephone Interviewing (CATI)
 - Computer-assisted In-person Interviewing (CAPI)
 - Audio Computer-assisted Self Interviewing (ACASI)
