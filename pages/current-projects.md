@@ -6,7 +6,6 @@ description: >-
 Keywords: ''
 published: true
 sidebar: true
-sidebar-content: |sidebar: true
 sidebar-content: |
  **Main Office:**   
    Entertainment and Community Education Center (ECEC)- Suite 401   
