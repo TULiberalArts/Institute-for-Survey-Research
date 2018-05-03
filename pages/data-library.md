@@ -12,6 +12,34 @@ sidebar-content: |
    1509 Cecil B. Moore Avenue   
    [(215) 204-8355](tel:2152048355)       
    Fax: (215) 204-4416    
+   
+   ___
+   
+  **Managing Director**   
+    Heidi E. Grunwald, PhD   
+    [(215) 204-2217](tel:2152042217)   
+    [grunwald@temple.edu](mailto:grunwald@temple.edu)    
+   
+   ___
+   
+  **Manager of Survey Operations:**   
+    Keisha Miles    
+    [(215) 204-4936](tel:2152044936)       
+    [kmiles@temple.edu](mailto:kmiles@temple.edu)    
+    
+   ___
+   
+  **MIS Development Engineer:**   
+    David F. Tucker         
+    [(215) 204-5100](tel:2152045100)        
+    [dtucker@temple.edu](mailto:dtucker@temple.edu)    
+    
+    ___
+   
+  **Sampling Statistician Collaborator:**   
+    Mansour Fahimi, PhD          
+    [(215) 204-5100](tel:2152045100)           
+    [dtucker@temple.edu](mailto:dtucker@temple.edu)     
 ---
 ## Social Science Data Library
 The Social Science Data Library is Temple University's repository for computerized social science data and a primary center for expertise in the analysis and presentation of such data. Members of Temple Community (full, free service for instructional needs; fees charged for extensive analytical services on time-consuming projects). Non-Temple Personnel (limited set of services, sometimes fee-based).
