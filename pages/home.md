@@ -18,31 +18,6 @@ Founded in 1967, Temple University Institute for Survey Research (ISR) is one of
 
 We are one of only three academic survey research centers in the U.S. with the historical experience of implementing national computer-assisted in-person surveys. We are known for the consistently high quality of our work, our high response rates, and our expertise and success in tracing longitudinal study participants.
 
-## Our Services
-- Survey Design
-- Methodology Consulting
-- Sampling Design
-- Subject Recruitment
-- Data Collection
-- Data Processing
-- Data Analysis
-- Report Writing
-- Information Technology
-- Education and Outreach
-
-## Areas of Expertise
-- Areas of Expertise:
-- Crime and Criminal Justice
-- Customer and Employee Satisfaction
-- Education
-- Hard-to-reach populations
-- Membership and Organizational
-- Public Health
-- Public Opinion
-- Public Policy
-- Social and Behavioral Issues
-- Transportation
-
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Be Heard Philly" 
@@ -53,16 +28,16 @@ We are one of only three academic survey research centers in the U.S. with the h
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT" 
-      content="" 
+      title="Our Services" 
+      content="Survey Design,-Methodology Consulting, -Sampling Design, -Subject Recruitment, -Data Collection, -Data Processing, -Data Analysis, -Report Writing, -Information Technology, -Education and Outreach" 
       image="" 
       button-link="" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT" 
-        content="" 
+        title="Areas of Expertise" 
+        content="Crime and Criminal Justice, -Customer and Employee Satisfaction, -Education, -Hard-to-reach populations, -Membership and Organizational, -Public Health, -Public Opinion, -Public Policy, -Social and Behavioral Issues, -Transportation" 
         image="" 
         button-link="" 
         button-text="Learn More" %}
