@@ -21,6 +21,7 @@ We are one of only three academic survey research centers in the U.S. with the h
 ___
 
 ## Be Heard Philly
+![Be Heard Philly]({{site.baseurl}}/media/Be Heard Philly logo-main.png){:.img-right}
 Share your voice about the issues you are most interested in such as current events, health care, art/culture initiatives and more. Earn gift cards and prizes when you take our surveys! Visit our Be Heard Philly [website](http://www.beheardphilly.com/)! 
 <div align="center"><iframe width="800" height="400" src="https://youtu.be/6kl7uuU7Y6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
