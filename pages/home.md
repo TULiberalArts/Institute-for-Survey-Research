@@ -18,30 +18,9 @@ Founded in 1967, Temple University Institute for Survey Research (ISR) is one of
 
 We are one of only three academic survey research centers in the U.S. with the historical experience of implementing national computer-assisted in-person surveys. We are known for the consistently high quality of our work, our high response rates, and our expertise and success in tracing longitudinal study participants.
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Be Heard Philly" 
-    content="Share your voice about the issues you are most interested in such as current events, health care, art/culture initiatives and more. Earn gift cards and prizes when you take our surveys!" 
-    image="" 
-    button-link="http://www.cla.temple.edu/isr/BeHeardPhilly/index.html" 
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Our Services" 
-      content="Survey Design,-Methodology Consulting, -Sampling Design, -Subject Recruitment, -Data Collection, -Data Processing, 
-      -Data Analysis, -Report Writing, -Information Technology, -Education and Outreach" 
-      image="" 
-      button-link="http://develop.cla.temple.edu/institute-for-survey-research/services/" 
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Areas of Expertise" 
-        content="Crime and Criminal Justice, -Customer and Employee Satisfaction, -Education, -Hard-to-reach populations, 
-        -Membership and Organizational, -Public Health, -Public Opinion, -Public Policy, -Social and Behavioral Issues, -Transportation" 
-        image="" 
-        button-link="http://develop.cla.temple.edu/institute-for-survey-research/services/" 
-        button-text="Learn More" %}
-      </div>
-</div>
+___
+
+## Be Heard Philly
+Share your voice about the issues you are most interested in such as current events, health care, art/culture initiatives and more. Earn gift cards and prizes when you take our surveys! Visit our Be Heard Philly [website](http://www.beheardphilly.com/)! 
+<div align="center"><iframe width="800" height="400" src="https://youtu.be/6kl7uuU7Y6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
