@@ -37,9 +37,7 @@ sidebar-content: |
     ___
    
   **Sampling Statistician Collaborator**   
-    Mansour Fahimi, PhD          
-    [(215) 204-5100](tel:2152045100)           
-    [dtucker@temple.edu](mailto:dtucker@temple.edu)     
+    Mansour Fahimi, PhD               
 ---
 ## Social Science Data Library
 The Social Science Data Library is Temple University's repository for computerized social science data and a primary center for expertise in the analysis and presentation of such data. Members of Temple Community (full, free service for instructional needs; fees charged for extensive analytical services on time-consuming projects). Non-Temple Personnel (limited set of services, sometimes fee-based).
