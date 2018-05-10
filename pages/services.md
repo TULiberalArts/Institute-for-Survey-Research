@@ -37,9 +37,7 @@ sidebar-content: |
     ___
    
   **Sampling Statistician Collaborator**   
-    Mansour Fahimi, PhD          
-    [(215) 204-5100](tel:2152045100)           
-    [dtucker@temple.edu](mailto:dtucker@temple.edu)     
+    Mansour Fahimi, PhD               
 ---
 ## [Study Design & Methodology](www.develop.cla.temple.edu/isr/services/study-design-and-methodology)
 ISR staff works with clients to design data collection efforts for qualitative and quantitative studies that involve human subjects research. We have experience in questionnaire development, semi-structured interview protocols for focus groups or interviews, cognitive testing of instruments for reading level and overall comprehension, pilot testing pre-existing instruments. We also have experience with bi-lingual instruments, translation and back-translation. We work on cross-sectional and longitudinal data collection efforts as well as program evaluations. 
