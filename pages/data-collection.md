@@ -38,9 +38,6 @@ sidebar-content: |
    
   **Sampling Statistician Collaborator**   
     Mansour Fahimi, PhD          
-    [(215) 204-5100](tel:2152045100)           
-    [dtucker@temple.edu](mailto:dtucker@temple.edu)     
----
 ---
 ## Computer-assisted Telephone Interviewing (CATI)
 ![Call Center]({{site.baseurl}}/media/resized CallCenter_15.jpg){:.img-right}
