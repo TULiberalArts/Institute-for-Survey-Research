@@ -37,9 +37,7 @@ sidebar-content: |
     ___
    
   **Sampling Statistician Collaborator**   
-    Mansour Fahimi, PhD          
-    [(215) 204-5100](tel:2152045100)           
-    [dtucker@temple.edu](mailto:dtucker@temple.edu)     
+    Mansour Fahimi, PhD               
 ---
 ## Employment Opportunities
 Temple University’s Institute for Survey Research has ongoing employment opportunities for Experienced Field Interviewers. Field Interviewers will make face-to-face visits to randomly selected households and conduct interviews with selected respondents using an electronic laptop. All necessary training will be provided.
