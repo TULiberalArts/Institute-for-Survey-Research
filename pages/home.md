@@ -21,8 +21,8 @@ We are known for the consistently high quality of our work, our high response ra
 ___
 
 ## BeHeardPhilly 
-**_Do you live in Philadelphia? Join [BeHeardPhilly](http://www.beheardphilly.com/)_**<br> 
-**_Are you studying Philadelphians? Use [BeHeardPhilly](http://www.beheardphilly.com/)_**<br>
+- **_Do you live in Philadelphia? Join [BeHeardPhilly](http://www.beheardphilly.com/)_**<br> 
+- **_Are you studying Philadelphians? Use [BeHeardPhilly](http://www.beheardphilly.com/)_**<br>
 
 Share your voice about the issues you are most interested in such as current events, health care, art/culture initiatives and more. Earn gift cards and prizes when you take our surveys! Visit our BeHeardPhilly [website](http://www.beheardphilly.com/)! 
 
