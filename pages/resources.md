@@ -42,10 +42,6 @@ sidebar-content: |
 ## Employment Opportunities
 Temple University’s Institute for Survey Research has ongoing employment opportunities for Experienced Field Interviewers. Field Interviewers will make face-to-face visits to randomly selected households and conduct interviews with selected respondents using an electronic laptop. All necessary training will be provided.
 
-We are currently hiring experienced field interviewers in the following areas:
-- Washington, D.C. Metro Area
-- Florida (Statewide)
-
 ### Field Interviewer
 - NO PHONE CALLS WILL BE ACCEPTED UNDER ANY CIRCUMSTANCES.
 - PLEASE SUBMIT RESUME VIA EMAIL TO [isr@temple.edu](mailto:isr@temple.edu)
