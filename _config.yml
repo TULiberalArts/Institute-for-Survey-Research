@@ -5,7 +5,8 @@ title: Institute for Survey Research
 baseurl: /institute-for-survey-research
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: http://www.cla.temple.edu/institute-for-survey-research
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -19,7 +20,7 @@ keywords: research, institute, university, philadelphia, Temple
 address:
   building: ECEC
   room: Suite 401
-  street: 1509 Cecil B. Moore Ave 
+  street: 1509 Cecil B. Moore Ave
   city: Philadelphia, PA 19121
   email: isr.temple.edu
   phone: 215-204-8355
@@ -56,7 +57,7 @@ university:
   url: https://temple.edu/
 college:
   name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/ 
+  url: https://liberalarts.temple.edu/
   
 program_news: https://liberalarts.temple.edu/news/institute-for-survey-research
 program_events: https://events.temple.edu/department/institute-for-survey-research
