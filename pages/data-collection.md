@@ -1,43 +1,13 @@
 ---
-title: Data Collection 
+# global predefined variables 
+layout: tla_page
 permalink: /services/data-collection/
-layout: page
+published: true
+# meta-data variables
+title: Data Collection
 description: >-
 keywords: ''
-published: true
-sidebar: true
-sidebar-content: |
- **Main Office**   
-   Entertainment and Community Education Center (ECEC)- Suite 401   
-   1509 Cecil B. Moore Avenue   
-   [(215) 204-8355](tel:2152048355)       
-   Fax: (215) 204-4416    
-   
-   ___
-   
-  **Managing Director**   
-    Heidi E. Grunwald, PhD   
-    [(215) 204-2217](tel:2152042217)   
-    [grunwald@temple.edu](mailto:grunwald@temple.edu)    
-   
-   ___
-   
-  **Manager of Survey Operations**   
-    Keisha Miles    
-    [(215) 204-4936](tel:2152044936)       
-    [kmiles@temple.edu](mailto:kmiles@temple.edu)    
-    
-   ___
-   
-  **MIS Development Engineer**   
-    David F. Tucker         
-    [(215) 204-5100](tel:2152045100)        
-    [dtucker@temple.edu](mailto:dtucker@temple.edu)    
-    
-    ___
-   
-  **Sampling Statistician Collaborator**   
-    Mansour Fahimi, PhD          
+# custom variables        
 ---
 ## Computer-assisted Telephone Interviewing (CATI)
 ![Call Center]({{site.baseurl}}/media/resized CallCenter_15.jpg){:.img-right}
