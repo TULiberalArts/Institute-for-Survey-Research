@@ -6,8 +6,7 @@ published: true
 # meta-data variables
 title: Data Collection
 description: >-
-keywords: ''
-# custom variables        
+keywords: ''       
 ---
 ## Computer-assisted Telephone Interviewing (CATI)
 ![Call Center]({{site.baseurl}}/media/resized CallCenter_15.jpg){:.img-right}
