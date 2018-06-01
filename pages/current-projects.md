@@ -1,43 +1,15 @@
 ---
-title: Current Projects
+# global predefined variables
+layout: tla_page
 permalink: /current-projects/
-layout: page
-description: >-
-Keywords: ''
 published: true
+# meta-data variables
+title: Current Projects
+description: >-
+keywords: ''
+# custom variables
 sidebar: true
-sidebar-content: |
- **Main Office**   
-   Entertainment and Community Education Center (ECEC)- Suite 401   
-   1509 Cecil B. Moore Avenue   
-   [(215) 204-8355](tel:2152048355)       
-   Fax: (215) 204-4416    
-   
-   ___
-   
-  **Managing Director**   
-    Heidi E. Grunwald, PhD   
-    [(215) 204-2217](tel:2152042217)   
-    [grunwald@temple.edu](mailto:grunwald@temple.edu)    
-   
-   ___
-   
-  **Manager of Survey Operations**   
-    Keisha Miles    
-    [(215) 204-4936](tel:2152044936)       
-    [kmiles@temple.edu](mailto:kmiles@temple.edu)    
-    
-   ___
-   
-  **MIS Development Engineer**   
-    David F. Tucker         
-    [(215) 204-5100](tel:2152045100)        
-    [dtucker@temple.edu](mailto:dtucker@temple.edu)    
-    
-    ___
-   
-  **Sampling Statistician Collaborator**   
-    Mansour Fahimi, PhD               
+sidebar_content: sidebars/current-projects.html               
 ---    
 The Institute for Survey Research (ISR) is currently directing and contributing to several projects across the country. Below is a list of current projects. For more information about these, and other projects, contact at [isr@temple.edu](mailto:isr@temple.edu) or [215-204-8355](tel:2152048355). 
 - You can view a full pdf of our [Past Research Projects](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20PROJECTS.pdf)<br>
