@@ -1,18 +1,22 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home
+published: true
+# meta-data variables
+title: Home
 description: >- 
-keywords: >-
+keywords: ''
+# custom variables
+sidebar: false
 feature: true
 feature-title: 
+feature-image: media/red_hue hero.png
 feature-body: >-
   The Center utilizes the expertise of Temple University faculty to conduct solutions-oriented
   interdisciplinary research that promotes human well-being and the integrity of the environment 
   that supports us. We collaborate with faculty and other researchers around the country and the 
   world on surveys and evaluations across a broad range of fields, topics and populations.
-feature-image: media/red_hue hero.png
-published: true
 ---
 Founded in 1967, Temple University Institute for Survey Research (ISR) is one of the oldest and most prestigious academic survey research centers in the U.S., with now more than 50 years of experience conducting national, state, and local surveys, statistical research, focus group research, needs assessments and program evaluations. ISR occupies 12,000 feet of newly renovated space in the ECEC building on Cecil B. Moore that includes a 35-seat call center.
 
