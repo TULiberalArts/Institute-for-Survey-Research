@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 sidebar: true
-sidebar_content: sidebars/services.html               
+sidebar_content: sidebars/services.html              
 ---
 ## [Study Design & Methodology](http://develop.cla.temple.edu/institute-for-survey-research/services/study-design-and-methodology/)
 
