@@ -1,12 +1,14 @@
 ---
-# global predefined variables 
+# global predefined variables
 layout: tla_page
 permalink: /services/data-collection/
 published: true
 # meta-data variables
 title: Data Collection
 description: >-
-keywords: ''       
+keywords: ''
+# custom variables
+sidebar: false
 ---
 ## Computer-assisted Telephone Interviewing (CATI)
 ![Call Center]({{site.baseurl}}/media/resized CallCenter_15.jpg){:.img-right}

@@ -8,8 +8,7 @@ title: Data Library
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/data-library.html               
+sidebar: false
 ---
 ## Social Science Data Library
 The Social Science Data Library is Temple University's repository for computerized social science data and a primary center for expertise in the analysis and presentation of such data. Members of Temple Community (full, free service for instructional needs; fees charged for extensive analytical services on time-consuming projects). Non-Temple Personnel (limited set of services, sometimes fee-based).
@@ -35,7 +34,7 @@ The Philadelphia Educational Longitudinal Study (PELS) is a comprehensive databa
 
 ### Data Resources by Topic Area
 - [Health](https://liberalarts.temple.edu/sites/liberalarts/files/Temple%20SSDL%20-%20Health%20Data%20Resources.pdf)
-- Education 
+- Education
 
 ### Example Publications
 - [Mennis & Grunwald (2013) Neighborhood collective efficacy and dimensions of diversity](https://liberalarts.temple.edu/sites/liberalarts/files/Mennis%20%26%20Grunwald%20%282013%29%20Neighborhood%20collective%20efficacy%20and%20dimensions%20of%20diversity.pdf)

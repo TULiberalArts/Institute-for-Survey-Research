@@ -2,14 +2,13 @@
 # global predefined variables
 layout: tla_page
 permalink: /resources/
-sidebar: true
+published: true
 # meta-data variables
 title: Resources
 description: >-
 keywords: ''
-published: true
 # custom variables
-sidebar_content: sidebars/resources.html              
+sidebar: false
 ---
 ## Employment Opportunities
 Temple University’s Institute for Survey Research has ongoing employment opportunities for Experienced Field Interviewers. Field Interviewers will make face-to-face visits to randomly selected households and conduct interviews with selected respondents using an electronic laptop. All necessary training will be provided.
