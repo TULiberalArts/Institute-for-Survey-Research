@@ -8,8 +8,7 @@ title: Study Design & Methodology
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/resources.html
+sidebar: false
 ---
 ## Technical Assistance with Survey Planning
 More than ever before, key decision makers are in need of empirical guidance for improving the operations of their organizations. Such guidance, however, cannot be based on a plethora of raw data. Measurable impact requires actionable intelligence, vital to which is reliable information that has to be distilled from representative data. As depicted in the following schematic, scientific sample design and diligent survey administration; effective analysis of survey data; and coherent interpretation of the results are critical steps towards the ultimate goal of enabling the production of a measurable impact.
