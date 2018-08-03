@@ -4,6 +4,11 @@
 
 Institute for Survey Research is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
+| Links |  |
+| --- | --- |
+| Development | https://develop.cla.temple.edu/institute-for-survey-research/ |
+| Production | https://www.cla.temple.edu/institute-for-survey-research/ |
+
 ## Content Structure
 
 | Directory |  |
