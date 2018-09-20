@@ -11,7 +11,7 @@ keywords: ''
 sidebar: false
 ---
 ## Computer-assisted Telephone Interviewing (CATI)
-![Call Center]({{site.baseurl}}/media/resized CallCenter_15.jpg){:.img-right}
+![Call Center]({{site.baseurl}}/media/resized CallCenter_15.jpg){:.responsive-img .img-right}
 ISR occupies 12,000 feet of newly renovated space in the Entertainment and Community Education Center (ECEC building located on Temple University's Main Campus. Our call center has 35 production stations expandable to 45, for telephone interviewing, Web support, inbound call handling, and tracing operations. It is located in a controlled-access environment, ensuring the strict security of all data collection, and operates 7 days a week.
 
 The Institute uses state-of-the-art technology to facilitate data collection and management. The Institute's call center is networked with high speed connections; allowing interviewing stations to be monitored remotely. ISR has been using Computer-Assisted Survey Execution System CASES software for CATI and direct data entry since 1986, and for CAPI since 1992. Currently, ISR uses the latest versions both 5.5 and 6 beta of CASES that support both CATI/CAPI data collection modes developed by the Survey Research Center at the University of California, Berkeley. The CASES software package supports varying levels of survey complexity. The Institute continues to make advancements in optimizing cost efficiency and reducing survey error, such as the modeling and construction of algorithms for call scheduling in random-digit-dialed landline telephone surveys.
