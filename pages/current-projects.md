@@ -15,21 +15,21 @@ The Institute for Survey Research (ISR) is currently directing and contributing 
 - You can view a full pdf of our [Seleted Publications and Citations](https://liberalarts.temple.edu/sites/liberalarts/files/PUBLICATIONS_0.pdf)<br>
 
 ## The Role of Automated SMS Text Messaging in Public Opinion Research
-![Textizen]({{site.baseurl}}/media/resized Textizen_logo_blue.png){:.img-right}
+![Textizen]({{site.baseurl}}/media/resized Textizen_logo_blue.png){:.responsive-img .img-right}
 This project examines the response to a series of automated SMS text messages used as a “primary” mode of data collection. A sample of 1,000 mobile subscribers was contacted via a “cold text” asking them to participate in a 5-question survey regarding their opinion on a local park; a raffle of 10 iPads was offered as incentives. Non-respondents received follow-up phone calls to determine their reason(s) for not responding, such as a non-working number, the inability to receive text messages, non-interest in text-message survey participation, or invasion of privacy.
 - _Principal Investigator: Heidi Grunwald, Project Director: Nina Hoe_
 
 ___
 
 ## Evaluation of PACE Center for Girls
-![Pace Cebter for Girls]({{site.baseurl}}/media/resized PACE logo.jpg){:.img-right}
+![Pace Cebter for Girls]({{site.baseurl}}/media/resized PACE logo.jpg){:.responsive-img .img-right}
 This project is an evaluation of the PACE Center for Girls, Inc., a school-based, gender-responsive alternative to institutionalization or incarceration for girls with high-risk behaviors. In collaboration with MDRD, ISR manages multi-mode web, phone, and in-person data collection for 1000 girls in 16 Florida sites.
 - _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
 
 ___
 
 ## Philadelphia Bike Share System
-![Indego Bike Share]({{site.baseurl}}/media/resized Indego Logo.png){:.img-right}
+![Indego Bike Share]({{site.baseurl}}/media/resized Indego Logo.png){:.responsive-img .img-right}
 Philadelphia, currently the last major city in the Northeast without a bike sharing system, will launch its own program starting in the spring of 2015. First, in the fall of 2014, ISR conducted focus groups with residents to determine how to make the new bike share program accessible, useful, and interesting to all residents of the City. Currently, as the Bike Share program prepares to launch, ISR will evaluate the impact of Bike Share outreach efforts.
 - _Principal Investigator: Heidi Grunwald, Project Director: Nina Hoe_
 
@@ -42,7 +42,7 @@ ISR collects data from three school districts across the country to evaluate the
 ___
 
 ## Menhood
-![Menhood]({{site.baseurl}}/media/resized menhood little.jpg){:.img-right}
+![Menhood]({{site.baseurl}}/media/resized menhood little.jpg){:.responsive-img .img-right}
 In collaboration with researchers at The George Washington University, ISR is currently managing all data collection efforts for a study investigating how factors such as poverty, racial discrimination, incarceration, crime and neighborhood values relate to Black men’s sexual risk behaviors with their sexual partners in Washington, D.C. Prior to launch, ISR supported instrument design through cognitive interviews and pretesting.
 - _Principal Investigator: Heidi Grunwald, Project Director: Keisha Miles_
 
