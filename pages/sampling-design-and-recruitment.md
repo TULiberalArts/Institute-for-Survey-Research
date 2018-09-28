@@ -8,7 +8,7 @@ title: Sampling Design & Recruitment
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ## Sampling Design & Analysis
 The foundation of any scientifically conducted survey must be a sound sampling strategy. ISR devotes considerable attention to sampling methods, balancing statistical considerations with practical limitations dictated by field costs.

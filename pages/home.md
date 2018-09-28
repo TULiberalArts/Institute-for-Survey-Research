@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title:
 feature-image: media/red_hue hero.png

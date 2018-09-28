@@ -8,7 +8,7 @@ title: Resources
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ## Employment Opportunities
 Temple University’s Institute for Survey Research has ongoing employment opportunities for Experienced Field Interviewers. Field Interviewers will make face-to-face visits to randomly selected households and conduct interviews with selected respondents using an electronic laptop. All necessary training will be provided.

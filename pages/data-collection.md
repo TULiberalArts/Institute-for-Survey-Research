@@ -8,7 +8,7 @@ title: Data Collection
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ## Computer-assisted Telephone Interviewing (CATI)
 ![Call Center]({{site.baseurl}}/media/resized CallCenter_15.jpg){:.responsive-img .img-right}

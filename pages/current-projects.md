@@ -8,7 +8,7 @@ title: Current Projects
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---    
 The Institute for Survey Research (ISR) is currently directing and contributing to several projects across the country. Below is a list of current projects. For more information about these, and other projects, contact at [isr@temple.edu](mailto:isr@temple.edu) or [215-204-8355](tel:2152048355).
 - You can view a full pdf of our [Past Research Projects](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20PROJECTS.pdf)<br>
