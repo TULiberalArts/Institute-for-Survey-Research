@@ -45,5 +45,5 @@ Staff at ISR can provide customized research methods and data collection trainin
 
 ## Collaborators
 - [MDRC- Building Knowledge to Improve Social Justice](https://www.mdrc.org/)
-- [Marlketing Systems Group](http://www.m-s-g.com/Web/Index.aspx)
+- Marlketing Systems Group
 - [Textizen](https://www.textizen.com/)
