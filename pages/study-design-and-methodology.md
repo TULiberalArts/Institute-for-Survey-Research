@@ -15,6 +15,7 @@ More than ever before, key decision makers are in need of empirical guidance for
 ![Roadmap]({{site.baseurl}}/media/roadmap_fahimi.png){:.responsive-img .img-center}
 
 Another fundamental tenet of our strategy is recognition of the fact that rigorous survey research programs are designed and implemented to minimize the so-called Total Survey Error, as depicted in the following diagram. Under this comprehensive framework each component of error should receive proper attention, since with imbalanced focus on any particular source of error, other error components will gain opportunities to grow and create weak links in the survey process. Effectively addressing all these issues requires academic knowledge, hand-on experience, and transparent execution – a package the ISR team offers.
+
 ![Survey Error]({{site.baseurl}}/media/serr_fahimi.png){:.responsive-img .img-center}
 
 ## Survey Instrument Review and Revision
